@@ -38,3 +38,5 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&layout=compact)
