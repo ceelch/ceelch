@@ -17,7 +17,7 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=matlab,octave)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
@@ -34,8 +34,6 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
-
-<!-- ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) -->
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Ovearleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -46,26 +44,18 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-<!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> -->
-
-
-<!-- ![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&layout=compact) -->
-
-# 📱 Contact 
+## 📱 Contact 
 
 - **Dr. César Hernández-Hernández**
 - Research Engineer at *ESIGELEC | Écoles d'ingénieur-es généralistes*.
 - e-mail: **cesar.hernandez@esigelec.fr**
 - personal e-mail: **ceelch@gmail.com**
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ceelch&theme=dark&hide_border=false)<br/>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ceelch&theme=radical&hide_border=false)<br/>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ceelch&icon=0&color=1)](https://visitcount.itsvg.in)
