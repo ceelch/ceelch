@@ -39,4 +39,17 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&layout=compact)
+<!-- ![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&layout=compact) -->
+
+# 📊 GitHub Stats:
+
+![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Conttributions](https://github-readme-streak-stats.herokuapp.com/?user=ceelch&theme=dark&hide_border=false)<br/>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ceelch&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
