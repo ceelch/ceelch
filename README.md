@@ -21,7 +21,6 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -29,6 +28,10 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -37,6 +40,8 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Ovearleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white) 
+
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -53,9 +58,9 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 
 ## 📊 GitHub Stats:
 
-![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![ceelch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceelch&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ceelch&theme=radical&hide_border=false)<br/>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceelch&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ceelch&icon=0&color=1)](https://visitcount.itsvg.in)
