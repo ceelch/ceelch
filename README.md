@@ -8,7 +8,9 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 
 ## 🔗 Find me around the web
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ceelch.github.io/CesarHernandezHernandezCV/)
+
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ceelch.github.io/CesarHernandezHernandezCV/) -->
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-blue?style=for-the-badge&logo=globe&logoColor=white)](https://ceelch.github.io/CesarHernandezHernandezCV/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-hernandez-hernandez/)
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.es/citations?user=WdG8KaMAAAAJ&hl=es)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Cesar-Hernandez-Hernandez-2)
@@ -17,7 +19,8 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+<!-- [![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) -->
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=codeforces&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
