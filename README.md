@@ -4,7 +4,7 @@
 
 I am Researcher in ***Applied Control Systems*** and ***Mathematical Modelling***. 
 
-My research interest includes Control Systems, Mathematical Modelling, Model Predictive Control, PID Control, Intelligent Control, Microgrids/Smartgrids, Renewable Energies, Wind Turbines, Engineering, Optimization, Machine Learning and Deep Learning, Big Data, and Data Mining.
+My research interest includes Control Systems, Mathematical Modelling, Model Predictive Control, PID Control, Intelligent Control, Microgrids/Smartgrids, Renewable Energies, Wind Turbines, Aerospace, Engineering, Optimization, Machine Learning and Deep Learning, Big Data, and Data Mining.
 
 ## 🔗 Find me around the web
 
@@ -55,8 +55,6 @@ My research interest includes Control Systems, Mathematical Modelling, Model Pre
 ## 📱 Contact 
 
 - **Dr. César Hernández-Hernández**
-- Research Engineer at *ESIGELEC | Écoles d'ingénieur-es généralistes*.
-- e-mail: **cesar.hernandez@esigelec.fr**
 - personal e-mail: **ceelch@gmail.com**
 
 ## 📊 GitHub Stats:
